@@ -24,11 +24,13 @@ Currently in public beta stages
 ## Alternative steps
 1. Run `"path\to\ComfUI\python_embeded\python.exe" -s -m pip install rembg[gpu]`. See details for rembg version and installation guide at https://github.com/danielgatis/rembg#installation. Note to include double quote `"` on the path if there is spaces in one of the folders along the path and the typo (embeded instead of embedded as per ComfyUI current path naming, as of July 2023)
 
-## Target Features
+## Features
 
 SpriGen aims to address 2D game asset generation with the following features:
 
-1. MVP focus on basic character generation. Assets is in png with associated text file map.
+1. Transparent asset background using rembg library. 
+1. (Ongoing) Autogenerate text file map.
+1. (Ongoing) Animated sprite.
 
 ## Example assets
 
