@@ -24,7 +24,7 @@ class SprigenRemBG:
                 }
 
     RETURN_TYPES = ("IMAGE", )
-    RETURN_NAMES = ("Image", )  
+    RETURN_NAMES = ("image", )  
     FUNCTION = "rembg_remove_background"
     CATEGORY = "Sprigen/Image"
 
