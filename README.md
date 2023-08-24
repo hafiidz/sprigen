@@ -17,7 +17,12 @@ Currently in public beta stages
 1. Run `git clone https://github.com/hafiidz/sprigen.git sprigen` to clone this repository to the local folder
 1. Navigate to sprigen folder via `cd sprigen`
 1. Run `install.bat`
-1. Alternatively, you can manually Install `rembg[gpu]` library via Run `"path\to\ComfUI\python_embeded\python.exe" -s -m pip install rembg[gpu]`. See details for rembg version and installation guide at https://github.com/danielgatis/rembg#installation. Note to include double quote `"` on the path if there is spaces in one of the folders along the path and the typo (embeded instead of embedded as per ComfyUI current path naming, as of July 2023)
+1. Alternatively, you can manually Install `rembg[gpu]` library as per details [below](##alternative-steps)
+1. Open ComfyUI via `run_nvidia_gpu.bat`
+1. Load `rembg` workflow by clicking Load button and navigate to `path/to/ComfyUI/custom_nodes/sprigen/workflow/remb.json`
+
+## Alternative steps
+1. Run `"path\to\ComfUI\python_embeded\python.exe" -s -m pip install rembg[gpu]`. See details for rembg version and installation guide at https://github.com/danielgatis/rembg#installation. Note to include double quote `"` on the path if there is spaces in one of the folders along the path and the typo (embeded instead of embedded as per ComfyUI current path naming, as of July 2023)
 
 ## Target Features
 
