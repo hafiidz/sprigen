@@ -4,7 +4,8 @@ Sprigen (Sprite Generator): AI 2D game asset generator
 
 ## Status
 
-Currently in public beta stages
+We're looking for programmers and artist in indie game industries to use and give feedback to our tools. 
+Create an issue or PR for new features and ideas.
 ## Requirements
 
 1. [ComfyUI](https://github.com/comfyanonymous/ComfyUI) installed
@@ -29,6 +30,7 @@ Currently in public beta stages
 SpriGen aims to address 2D game asset generation with the following features:
 
 1. Transparent asset background using rembg library. 
+1. (Ongoing) infinite loop tiled texture assets.
 1. (Ongoing) Autogenerate text file map.
 1. (Ongoing) Animated sprite.
 
