@@ -6,6 +6,8 @@ Sprigen (Sprite Generator): AI 2D game asset generator
 
 We're looking for programmers and artist in indie game industries to use and give feedback to our tools. 
 Create an issue or PR for new features and ideas.
+
+Dev branch added for experimental features at https://github.com/hafiidz/sprigen/tree/dev
 ## Requirements
 
 1. [ComfyUI](https://github.com/comfyanonymous/ComfyUI) installed
